@@ -27,5 +27,5 @@ app.listen(port,(err) => {
         console.log("ERROR " + err );
         return false;
     }
-    console.log("port is ready")
+    console.log("port s ready")
 })
